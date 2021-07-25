@@ -1,0 +1,5 @@
+ChatBot Constructor
+the address of image in constructor is  : 0xeb6df40
+ChatBot Destructor
+the address of image is : 0xeb6df40
+ChatBot Destructor
